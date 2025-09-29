@@ -33,7 +33,7 @@ This Python script is a keylogger that captures keystrokes, logs them to a file,
 
 ## Configuration
 Edit the following variables in the script to customize its behavior:
-- `email_address`: The Gmail address used to send logs (e.g., `parthk.cse21@sbjit.edu.in`).
+- `email_address`: The Gmail address used to send logs (e.g., `parthk21@yahoo.com`).
 - `email_password`: The Gmail App Password (not your regular Gmail password).
 - `recipient`: The email address to receive logs (can be the same as `email_address`).
 - `interval`: Time interval (in seconds) between email reports (default: `900` seconds or 15 minutes).
